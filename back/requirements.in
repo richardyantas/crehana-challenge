@@ -1,0 +1,8 @@
+pytest
+psycopg2
+django
+graphene_django
+django-filter
+djangorestframework
+django-cors-headers
+flake8
